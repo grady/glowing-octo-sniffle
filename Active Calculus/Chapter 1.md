@@ -1,9 +1,14 @@
 # Chapter 1
 What is velocity?
 
-Average velocity:
+Average velocity
+:
 Change in position per change in time
+
+- List item
+- List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE1ODc1OTIsMTczMjcxNDEzMywyND
-c2NTY1NSwtMTI2MTQ5MzVdfQ==
+eyJoaXN0b3J5IjpbMTEwNTQ1NDE0NiwxNzMyNzE0MTMzLDI0Nz
+Y1NjU1LC0xMjYxNDkzNV19
 -->
